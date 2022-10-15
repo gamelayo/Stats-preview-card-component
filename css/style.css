@@ -23,8 +23,8 @@ main {
 }
 
 .image {
-  width: 25rem;
-  height: 20.5rem;
+  width: 30rem;
+  height: 24.8rem;
   background: linear-gradient(
       0deg,
       rgba(170 92 219 / 40%),
@@ -61,8 +61,8 @@ p {
 .body-container {
   display: flex;
   flex-direction: column;
-  height: 20.5rem;
-  width: 27rem;
+  height: 24.8rem;
+  width: 30rem;
   padding-right: 25px;
   justify-content: center;
   background-color: hsl(244, 38%, 16%);
